@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-self-hosted
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: guilhermemenezes03
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - run: |
+          mkdir -p output
+          cp dist/snake.svg output/
+          cp dist/snake-dark.svg output/
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
