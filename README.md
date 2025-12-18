@@ -36,8 +36,7 @@ I'm Guilherme Menezes, a passionate full-stack developer specializing in modern 
 <!--END_SECTION:activity-->
 
 ## 📫 Connect with me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email: guilhermemenezesmed@gmail.com
 
 ---
 
