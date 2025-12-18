@@ -21,23 +21,6 @@ I am a **Full Stack Developer** with a strong focus on building high-performance
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/guilhermemenezes03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemenezes03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/guilhermemenezes03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemenezes03&layout=compact&theme=tokyonight" />
-</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermemenezes03&theme=tokyonight" />
-</p>
-
----
-
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
