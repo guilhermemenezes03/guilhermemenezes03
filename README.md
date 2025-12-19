@@ -7,7 +7,7 @@
 ### 💫 About Me
 I am a **Full Stack Developer** with a strong focus on building high-performance, scalable web applications. I enjoy solving complex problems and constantly learning new technologies to improve my craft.
 
-- 🔭 I’m currently working on **Real-time Stock Tracking Systems**
+- 🔭 I’m currently working on **Finances**
 - ⚡ Fun fact: I love exploring the intersection of **Finance and Technology**
 - 📫 How to reach me: [Email](mailto:guilhermemenezesmed@gmail.com)
 
