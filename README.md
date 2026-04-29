@@ -16,7 +16,7 @@ I am a **Full Stack Developer** with a strong focus on building high-performance
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,go,postgres,mysql,mongodb,docker,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,go,postgres,mysql,mongodb,docker,git,githubactions,cpp" />
 </div>
 
 ---
